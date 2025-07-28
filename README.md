@@ -4,7 +4,7 @@
 🎓 BE in Artificial Intelligence & Machine Learning (AIML) <br>
 💻 Passionate about programming, machine learning, and AI applications <br>
 🌱 Currently learning advanced concepts in AIML and building real-world AI projects <br>
-📫 How to reach me:**yogeeshkulal1234@gmail.com**
+📫 How to reach me:yogeeshkulal1234@gmail.com
 </p>
 
 ---
