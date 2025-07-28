@@ -29,9 +29,6 @@ Uses OpenAI GPT-3.5 to evaluate formal letters uploaded as `.txt` or `.pdf`.
 ### 🔹 [My-Gen AI Application](https://github.com/Yogeeshkulal/My-Gen_AI_Application)
 A sleek, ChatGPT-style AI chatbot built with Gradio UI and hosted on Hugging Face Spaces.
 
-### 🔹 [Skin Cancer Prediction](https://github.com/Yogeeshkulal/Skin_Cancer_Prediction)
-Detects skin cancer conditions using deep learning classification models.
-
 ---
 
 ## 🛠️ Tech Stack
