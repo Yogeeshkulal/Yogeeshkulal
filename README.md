@@ -4,7 +4,7 @@
 🎓 BE in Artificial Intelligence & Machine Learning (AIML) <br>
 💻 Passionate about programming, machine learning, and AI applications <br>
 🌱 Currently learning advanced concepts in AIML and building real-world AI projects <br>
-📫 How to reach me: yogeeshkual1234@gmail.com
+📫 How to reach me:**yogeeshkulal1234@gmail.com**
 </p>
 
 ---
@@ -54,7 +54,7 @@ Detects skin cancer conditions using deep learning classification models.
 
 ## 🌟 Let's Connect!
 
-- 💼 [https://www.linkedin.com/in/yogeesh-kulal-001b67278]
+- 💼 **https://www.linkedin.com/in/yogeesh-kulal-001b67278**
 - 📬 Email: **yogeeshkulal1234@gmail.com**
 
 ---
