@@ -18,18 +18,19 @@
 
 ---
 
-## 🧠 Projects I’m Proud Of
+## Projects I’m Proud Of
 
-### 🔹 [IPL Match Winner Prediction](https://github.com/Yogeeshkulal/ipl-match-winner-prediction)
+### 🔹 [IPL Match Winner Prediction](https://github.com/Yogeeshkulal/ipl-match-winner-prediction)  
 Predicts IPL match outcomes using machine learning models and historical data.
 
-### 🔹 [Essay Grading System](https://github.com/Yogeeshkulal/essay-grading-system)
+### 🔹 [Essay Grading System](https://github.com/Yogeeshkulal/essay-grading-system)  
 Uses OpenAI GPT-3.5 to evaluate formal letters uploaded as `.txt` or `.pdf`.
 
-### 🔹 [My-Gen AI Application](https://github.com/Yogeeshkulal/My-Gen_AI_Application)
+### 🔹 [My-Gen AI Application](https://github.com/Yogeeshkulal/My-Gen_AI_Application)  
 A sleek, ChatGPT-style AI chatbot built with Gradio UI and hosted on Hugging Face Spaces.
 
----
+### 🔹 [Expense Tracker Fullstack](https://github.com/Yogeeshkulal/Expense-Tracker)  
+A full-stack expense tracker app with React frontend and Node.js backend for managing personal expenses.
 
 ## 🛠️ Tech Stack
 
