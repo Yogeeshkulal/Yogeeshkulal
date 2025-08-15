@@ -40,14 +40,6 @@ A full-stack expense tracker app with React frontend and Node.js backend for man
 - **Other Tools**: Git, GitHub, VS Code
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeeshkulal&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeeshkulal&layout=compact&theme=github_dark" width="48%" />
-</p>
-
 ---
 
 ## 🌟 Let's Connect!
